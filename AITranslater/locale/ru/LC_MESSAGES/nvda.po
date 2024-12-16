@@ -1,41 +1,65 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: AITranslater\n"
-"POT-Creation-Date: 2024-10-15 07:31+0300\n"
-"PO-Revision-Date: 2024-10-23 08:53+0300\n"
+"POT-Creation-Date: 2024-12-13 18:28+0200\n"
+"PO-Revision-Date: 2024-12-16 10:04+0700\n"
 "Last-Translator: nvda.ru\n"
 "Language-Team: nvda.ru\n"
 "Language: ru_RU\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.6\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 3.5\n"
 "X-Poedit-Basepath: ../../../globalPlugins\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-SearchPath-0: .\n"
 
-#: AITranslater/__init__.py:79 AITranslater/__init__.py:156
-msgid "AI translater"
-msgstr "Переводчик с помощью искусственного интеллекта"
+#: D:\windows\folders\Github
+#: desktop\AITranslater-nvda-add-on\AITranslater\globalPlugins\AITranslater\__init__.py:80
+msgid "input text"
+msgstr "входной текст"
 
-#: AITranslater/__init__.py:142
-msgid "model"
-msgstr "модель"
+#: D:\windows\folders\Github
+#: desktop\AITranslater-nvda-add-on\AITranslater\globalPlugins\AITranslater\__init__.py:85
+msgid "translate"
+msgstr "перевести"
 
-#: AITranslater/__init__.py:145
-msgid "translate to"
-msgstr "перевод на"
-
-#: AITranslater/__init__.py:163
+#: D:\windows\folders\Github
+#: desktop\AITranslater-nvda-add-on\AITranslater\globalPlugins\AITranslater\__init__.py:98
+#: desktop\AITranslater-nvda-add-on\AITranslater\globalPlugins\AITranslater\__init__.py:191
 msgid "error "
 msgstr "ошибка "
 
-#: AITranslater/__init__.py:164
+#: D:\windows\folders\Github
+#: desktop\AITranslater-nvda-add-on\AITranslater\globalPlugins\AITranslater\__init__.py:100
+#: desktop\AITranslater-nvda-add-on\AITranslater\globalPlugins\AITranslater\__init__.py:192
 msgid "translation result"
 msgstr "результат перевода"
 
-#: AITranslater/__init__.py:165
+#: D:\windows\folders\Github
+#: desktop\AITranslater-nvda-add-on\AITranslater\globalPlugins\AITranslater\__init__.py:103
+#: desktop\AITranslater-nvda-add-on\AITranslater\globalPlugins\AITranslater\__init__.py:180
+msgid "AI translater"
+msgstr "Переводчик с помощью искусственного интеллекта"
+
+#: D:\windows\folders\Github
+#: desktop\AITranslater-nvda-add-on\AITranslater\globalPlugins\AITranslater\__init__.py:166
+msgid "model"
+msgstr "модель"
+
+#: D:\windows\folders\Github
+#: desktop\AITranslater-nvda-add-on\AITranslater\globalPlugins\AITranslater\__init__.py:169
+msgid "translate to"
+msgstr "перевод на"
+
+#: D:\windows\folders\Github
+#: desktop\AITranslater-nvda-add-on\AITranslater\globalPlugins\AITranslater\__init__.py:185
+msgid "open translation window"
+msgstr "открыть окно перевода"
+
+#: D:\windows\folders\Github
+#: desktop\AITranslater-nvda-add-on\AITranslater\globalPlugins\AITranslater\__init__.py:193
 msgid "Translates clipboard text "
 msgstr "Перевести текст из буфера обмена "
